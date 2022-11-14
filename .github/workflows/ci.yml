@@ -12,8 +12,8 @@ on:
 
 # These variables can be reused in the build steps
 env:
-  DOCKER_REPOSITORY: tourna
-  DOCKER_IMAGE: tafun-alm-workshop
+  DOCKER_REPOSITORY: xliquidz
+  DOCKER_IMAGE: code-with-quarkus
 
 jobs:
   build:
